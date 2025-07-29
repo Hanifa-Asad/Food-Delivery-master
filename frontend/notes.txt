@@ -1,0 +1,3 @@
+npm install express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validat
+or nodemon
+in the backend folder
