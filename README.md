@@ -24,7 +24,7 @@ This project is divided into three main parts:
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (hosted on MongoDB Atlas)
 - **Payment Gateway:** Stripe
-- **Authentication:** JWT, Bcrypt
+- **Authentication:** JWT, bcrypt.js
 - **CORS:** Enabled for cross-origin requests
 
 ## ⚙️ Quick Setup Guide
