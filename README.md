@@ -77,5 +77,5 @@ npm run dev
 ## 📩 Contact
 
 For any questions or feedback, feel free to reach out:
-- **Email:** gayathri.pingili33@gmail.com
+- **Email:** hanifaasasd23@gmail.com
 
